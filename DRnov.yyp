@@ -2,7 +2,7 @@
   "$GMProject":"v1",
   "%Name":"DRnov",
   "AudioGroups":[
-    {"$GMAudioGroup":"v1","%Name":"audiogroup_default","exportDir":"","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
   "configs":{
     "children":[],
@@ -34,16 +34,15 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.1400.0.907",
+    "IDEVersion":"2024.13.1.193",
   },
   "name":"DRnov",
   "resources":[
     {"id":{"name":"font_und","path":"fonts/font_und/font_und.yy",},},
+    {"id":{"name":"obj_char_sprite_manager","path":"objects/obj_char_sprite_manager/obj_char_sprite_manager.yy",},},
     {"id":{"name":"obj_dialog_manager","path":"objects/obj_dialog_manager/obj_dialog_manager.yy",},},
-    {"id":{"name":"obj_player_manager","path":"objects/obj_player_manager/obj_player_manager.yy",},},
     {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_tester","path":"objects/obj_tester/obj_tester.yy",},},
-    {"id":{"name":"Object5","path":"objects/Object5/Object5.yy",},},
     {"id":{"name":"guide_room","path":"rooms/guide_room/guide_room.yy",},},
     {"id":{"name":"snd_text","path":"sounds/snd_text/snd_text.yy",},},
     {"id":{"name":"spr_pers_idle_down","path":"sprites/spr_pers_idle_down/spr_pers_idle_down.yy",},},
